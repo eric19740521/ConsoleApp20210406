@@ -55,7 +55,7 @@ namespace test01
             var OK = -1;
 
             OK = _p.FindIndex(x => x.ID == _ID); //找不到.回傳-1
-            if (OK > 0)
+            if (OK >= 0)
             {
 
                 _p[OK].Name = _Name;
