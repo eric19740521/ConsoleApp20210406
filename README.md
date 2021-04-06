@@ -23,3 +23,6 @@ private static List<DB> _p = new List<DB>();
 
 
 2.後續 dotnet core webapi
+
+
+https://github.com/eric19740521/ConsoleApp20210406
