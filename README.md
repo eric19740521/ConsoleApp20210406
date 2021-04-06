@@ -3,7 +3,9 @@ C# List類別練習.會員物件實現CRUD
 
 
 參考資料:
+
 https://frank1025.pixnet.net/blog/post/347251643-%5Bc%23%5D-list
+
 https://docs.microsoft.com/zh-tw/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes
 
 
